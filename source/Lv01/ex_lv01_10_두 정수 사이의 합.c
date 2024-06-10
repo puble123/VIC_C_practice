@@ -17,3 +17,8 @@ long long solution(int a, int b)
     return answer;
 
 }
+
+void main(void)
+{
+    
+}

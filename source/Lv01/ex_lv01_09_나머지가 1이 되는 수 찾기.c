@@ -12,3 +12,8 @@ int solution(int n)
         }
     }
 }
+
+void main(void)
+{
+    
+}

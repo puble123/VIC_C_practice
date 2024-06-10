@@ -16,3 +16,8 @@ bool solution(int x) {
     return (x % (sum+y) == 0) ? true : false;
     
 }
+
+void main(void)
+{
+    
+}

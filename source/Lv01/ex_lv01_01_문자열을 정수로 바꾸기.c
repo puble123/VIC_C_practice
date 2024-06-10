@@ -23,3 +23,8 @@ int solution(const char* s)
     }
     return sign * result;
 }
+
+void main(void)
+{
+    
+}

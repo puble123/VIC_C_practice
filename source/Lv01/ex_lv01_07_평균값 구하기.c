@@ -12,3 +12,8 @@ double solution(int arr[], size_t arr_len)
     }
     return (double) answer/arr_len;
 }
+
+void main(void)
+{
+    
+}
